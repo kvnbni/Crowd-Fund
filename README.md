@@ -1,1 +1,2 @@
 # Crowd-Fund
+Made a website similar to Kickstarter where users could sign up for an account and create new projects, financially back projects they find interesting, rate completed projects etc. The site also has recommendations based on likes, friends the user is following etc. Users could also search for users, comments, tags on projects etc. The site was made using PHP as the back end and MySQL as the database. 
